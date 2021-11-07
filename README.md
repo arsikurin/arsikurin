@@ -9,5 +9,5 @@
 <h3 align="center">Welcome!</h3>
 <div style="height: 100px" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=arsikurin&count_private=true&show_icons=true&include_all_commits=true&theme=swift" alt="arsikurin" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=arsikurin&count_private=true&show_icons=true&include_all_commits=true" alt="arsikurin" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsikurin&&langs_count=8theme=swift&hide=cmake,purebasic,html,css,scss,less" alt="arsikurin" />
